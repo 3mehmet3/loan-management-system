@@ -147,7 +147,7 @@ loan-management-system/
 ## 👨‍💻 Author
 
 **Mehmet Karakaş**
-- GitHub: [@3mehmet3](https://github.com/your-username)
+- GitHub: [@3mehmet3](https://github.com/3mehmet3)
 - LinkedIn: [https://www.linkedin.com/in/mehmet-karakaş-a743b4267/](https://linkedin.com)
 
 ---
